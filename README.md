@@ -16,5 +16,6 @@ The emission of ozone-depleting gases impacted the earth’s ozone layer – a l
 
 ![components_prediction_plot](https://github.com/user-attachments/assets/9040dc80-b784-4440-8b6a-52cbdfc1712b)
 
-TECHNOLOGIES USED (OPEN STREET MAP, CHAT GPT, DATA SET -NOAA.GOV, OZONE_DATA.CSV, EPA WEATHER.GOV, COPERNICUS ATOMSPHERE MONITERING SVS, NASA.GOV.
+TECHNOLOGIES USED (OPEN STREET MAP, CHAT GPT, DATA SET -NOAA.GOV, OZONE_DATA.CSV, EPA WEATHER.GOV, COPERNICUS ATOMSPHERE MONITERING SVS, NASA.GOV. Tableau.
 
+https://public.tableau.com/views/Capstone2025_17495196833690/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
